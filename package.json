@@ -1,0 +1,10 @@
+{
+  "name": "sv-chat",
+  "version": "0.1.0",
+  "description": "another private messenger",
+  "main": "index.js",
+  "repository": "https://github.com/WesleyDRobinson/sv-chat",
+  "author": "wesley <robinson.wesleyd@gmail.com>",
+  "license": "ISC",
+  "private": false
+}
